@@ -3,7 +3,7 @@
 .equ YELL = (1<<PB4)      ;Define yellow LED pin
 .equ RED = (1<<PB3)       ;Define red LED pin
 .equ PORT = PORTB         ;Define used port (DDR)
-.equ DDR = DDRB			      ;Define used port
+.equ DDR = DDRB           ;Define used port
 ldi r16,GREEN|YELL|RED	  ;Bitmask of 3 pins in r16
 out DDR, r16			        ;Put bitmask into DDR
 reset:					          ;Label for reset point
