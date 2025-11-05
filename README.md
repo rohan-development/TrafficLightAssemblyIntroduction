@@ -4,4 +4,4 @@ The main.asm file turns PB5 high for 2 seconds (green), then PB4 high for 1 seco
 
 See attached Report.pdf for details.
 
-Video overview: [https://www.youtube.com/watch?v=VmWGHp7-iGg](url)
+Video overview: https://www.youtube.com/watch?v=VmWGHp7-iGg
