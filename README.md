@@ -3,3 +3,5 @@ The purpose of the traffic light project is to teach a foundation for AVR assemb
 The main.asm file turns PB5 high for 2 seconds (green), then PB4 high for 1 second (yellow), then PB3 high for 2 seconds (red). It then repeats continuously.
 
 See attached Report.pdf for details.
+
+Video overview: [https://www.youtube.com/watch?v=VmWGHp7-iGg](url)
